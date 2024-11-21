@@ -1,4 +1,4 @@
-## Hello world!
+### Still Learning.. Getter better. 
 
 <!--
 **DevNikoS/DevNikoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
