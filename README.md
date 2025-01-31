@@ -1,4 +1,6 @@
 ### Still Learning.. Getting better. 
+#### What is going on?
+- C#, JavaScript, HTML, CSS, RestAPI, SQL, you name it. Becoming to fullstack
 
 <!--
 **DevNikoS/DevNikoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
