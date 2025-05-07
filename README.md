@@ -1,10 +1,3 @@
-**Still Learning... Getting Better.**
-
-🚀 What’s going on?  
-Diving deep into:  
-- **C#**, **JavaScript**, **HTML**, **CSS**, **REST API**, **SQL** — you name it!  
-On a journey to becoming a **Full-Stack Developer**.
-
 <!--
 **DevNikoS/DevNikoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
